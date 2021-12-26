@@ -10,3 +10,16 @@ After we defined the target book that going to be used in the project and got a 
 <br />
 
 **We used one chapter as an experimental test, and then we will apply the same techniques and methodology that were used in the experimental stage in the rest of the book chapters.**
+
+
+## Pre-processing:
+
+In this stage and after extracting the data from the book, we will perform some pre-processing techniques that are commonly used in NLP.
+
+pre-processing techniques:
+* Tokenization: To create a bag-of-words.
+* Lowercasing: Convert the words to lower case.
+* Stemming: Shorten words to their root.
+* Removing stop-words, unwanted tokens, and punctuations.
+* CountVectorizer: Convert the documents into word matrics.
+
