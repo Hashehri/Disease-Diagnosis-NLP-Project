@@ -24,4 +24,8 @@ This Project collaboration between: [Hatim Alshehri](https://github.com/Hashehri
 * sklearn
 * PyPDF2
 * gensim
+* Nltk
+* Flask
+* Pickl
+* html
 
