@@ -42,7 +42,7 @@ In order to achieve the project objective, we will use one of the trusted books 
 
 Communication: 
 
-The project presnted in [slides ]()
+The project presnted in [slides ](https://github.com/Hashehri/Disease-Diagnosis-NLP-Project/blob/main/nlp_slide.pdf)
 
 
 
