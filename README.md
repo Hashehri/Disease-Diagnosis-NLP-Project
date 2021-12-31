@@ -27,5 +27,5 @@ This Project collaboration between: [Hatim Alshehri](https://github.com/Hashehri
 * Nltk
 * Flask
 * Pickl
-* Html
+* html
 
